@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: This resource contains information related to string operations.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/6-189-a-gentle-introduction-to-programming-using-python-january-iap-2011/6f702cf8a230582dc4e3340cba2fec46_MIT6_189IAP11_hw2_written.pdf
+file: /media/courses/6-189-a-gentle-introduction-to-programming-using-python-january-iap-2011/6f702cf8a230582dc4e3340cba2fec46_MIT6_189IAP11_hw2_written.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: MIT6_189IAP11_hw2_written.pdf
 uid: 6f702cf8-a230-582d-c4e3-340cba2fec46
