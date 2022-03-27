@@ -77,7 +77,7 @@ Handout ([PDF]({{< baseurl >}}/resources/mit6_189iap11_project1))
 
 hangman\_template.py ([PY]({{< baseurl >}}/resources/hangman_template))
 
-words.txt ([TXT](/courses/electrical-engineering-and-computer-science/6-189-a-gentle-introduction-to-programming-using-python-january-iap-2011/assignments/words.txt))
+words.txt ([TXT]({{< baseurl >}}/resources/words))
 
 Optional extension:
 
@@ -125,7 +125,7 @@ graphics.py ([PY]({{< baseurl >}}/resources/graphics)) — be sure to save this 
 
 wheel.py ([PY]({{< baseurl >}}/resources/wheel-1))
 
-rgb.txt ([TXT](/courses/electrical-engineering-and-computer-science/6-189-a-gentle-introduction-to-programming-using-python-january-iap-2011/assignments/rgb.txt))
+rgb.txt ([TXT]({{< baseurl >}}/resources/rgb))
 
 The graphics.py package and documentation are courtesy of John Zelle, and are used with permission.
 

@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lectures
 parent_type: CourseSection
+parent_uid: 452642f2-dc9f-9093-87c9-7c046705b92a
 resourcetype: Other
 title: while_else.py
 uid: 32623cef-a109-ac00-7005-b0d5c281365e

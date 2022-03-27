@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lectures
 parent_type: CourseSection
+parent_uid: 452642f2-dc9f-9093-87c9-7c046705b92a
 resourcetype: Other
 title: check_for_vowels.py
 uid: ead8af05-1c82-1f7b-61a6-f45be4671390

@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lectures
 parent_type: CourseSection
+parent_uid: 452642f2-dc9f-9093-87c9-7c046705b92a
 resourcetype: Other
 title: lecture3.py
 uid: 09b7e874-0c0e-c1d8-995e-2e4dab90849c

@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: 4121d094-5294-dd04-7363-d91b0b145ceb
 resourcetype: Document
 title: MIT6_189IAP11_exam.pdf
 uid: fb47b226-0975-5e5d-93f6-7355b93167dc

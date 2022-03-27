@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: 4121d094-5294-dd04-7363-d91b0b145ceb
 resourcetype: Other
 title: exam_sol.py
 uid: f1a92a53-241c-f607-bee9-34dd5b337115

@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lectures
 parent_type: CourseSection
+parent_uid: 452642f2-dc9f-9093-87c9-7c046705b92a
 resourcetype: Document
 title: MIT6_189IAP11_rec_problems.pdf
 uid: 231bd099-5d90-626f-2d7e-2ad223fa7eea

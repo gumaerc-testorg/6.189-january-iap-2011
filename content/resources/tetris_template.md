@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 5d1a5094-f9b1-d4d4-bff1-91eb06deeed4
 resourcetype: Other
 title: tetris_template.py
 uid: 0dfbd161-80c2-6bab-f3ed-cc57bf50c1f7

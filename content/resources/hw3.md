@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 5d1a5094-f9b1-d4d4-bff1-91eb06deeed4
 resourcetype: Other
 title: hw3.py
 uid: a996f282-d3c8-1618-5be7-8e04b214a7b7

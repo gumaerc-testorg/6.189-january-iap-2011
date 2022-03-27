@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 5d1a5094-f9b1-d4d4-bff1-91eb06deeed4
 resourcetype: Other
 title: wheel.py
 uid: 9f029f7f-e10d-bd44-9129-8971176142bd

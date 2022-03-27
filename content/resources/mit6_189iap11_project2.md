@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 5d1a5094-f9b1-d4d4-bff1-91eb06deeed4
 resourcetype: Document
 title: MIT6_189IAP11_project2.pdf
 uid: 1f7c7a1a-dc3a-de88-43b0-a41a8e496fd6
