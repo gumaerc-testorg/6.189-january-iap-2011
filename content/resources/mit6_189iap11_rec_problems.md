@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information related to recursion exercises.
-file: /media/courses/6-189-a-gentle-introduction-to-programming-using-python-january-iap-2011/231bd0995d90626f2d7e2ad223fa7eea_MIT6_189IAP11_rec_problems.pdf
+file: /courses/6-189-a-gentle-introduction-to-programming-using-python-january-iap-2011/231bd0995d90626f2d7e2ad223fa7eea_MIT6_189IAP11_rec_problems.pdf
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
@@ -12,4 +12,10 @@ parent_uid: 452642f2-dc9f-9093-87c9-7c046705b92a
 resourcetype: Document
 title: MIT6_189IAP11_rec_problems.pdf
 uid: 231bd099-5d90-626f-2d7e-2ad223fa7eea
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
+This resource contains information related to recursion exercises.
+

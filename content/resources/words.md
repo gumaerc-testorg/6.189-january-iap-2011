@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource is a supporting file for words.
-file: /media/courses/6-189-a-gentle-introduction-to-programming-using-python-january-iap-2011/ceced678ef8c0abd22ee3ad35d6001da_words.txt
+file: /courses/6-189-a-gentle-introduction-to-programming-using-python-january-iap-2011/ceced678ef8c0abd22ee3ad35d6001da_words.txt
 file_type: text/plain
 learning_resource_types:
 - Assignments
@@ -13,3 +13,5 @@ resourcetype: Other
 title: words.txt
 uid: ceced678-ef8c-0abd-22ee-3ad35d6001da
 ---
+This resource is a supporting file for words.
+

@@ -1,11 +1,16 @@
 ---
 content_type: page
+description: This section provides the online textbook and a schedule of readings
+  by session.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
-parent_uid: null
 title: Readings
 uid: 1c62f712-bf1c-b829-37d1-4ea86c3b8672
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 This section includes the online textbook and a schedule of [readings by session](#Readings_by_Session).
@@ -13,7 +18,7 @@ This section includes the online textbook and a schedule of [readings by session
 Textbook
 --------
 
-Downey, Allen, Jeffrey Elkner, and Chris Meyers. _How to Think Like a Computer Scientist: Learning with Python_. Green Tea Press, 2002. ISBN: 9780971677500. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.0MB](http://www.greenteapress.com/thinkpython/thinkCSpy/thinkCSpy.pdf))
+Downey, Allen, Jeffrey Elkner, and Chris Meyers. _How to Think Like a Computer Scientist: Learning with Python_. Green Tea Press, 2002. ISBN: 9780971677500. ([PDF - 1.0MB](http://www.greenteapress.com/thinkpython/thinkCSpy/thinkCSpy.pdf))
 
 If you have trouble accessing the textbook, or don't want to download the whole PDF, try the individual chapters:
 
