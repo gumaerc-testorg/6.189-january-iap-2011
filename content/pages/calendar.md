@@ -1,7 +1,15 @@
 ---
 content_type: page
+description: This calendar section provides the schedule of lecture topics and key
+  dates for homework and projects.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Calendar
 uid: 4e5c1575-20bb-d074-4a4b-c0abcd17099d
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 {{< tableopen >}}
