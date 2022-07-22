@@ -5,6 +5,7 @@ file: /courses/6-189-a-gentle-introduction-to-programming-using-python-january-i
 file_type: text/python-source
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -18,4 +19,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource is a supporting file for exam.
-
