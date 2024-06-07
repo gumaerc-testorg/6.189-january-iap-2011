@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains information related to  inventing the wheel.
 file: /courses/6-189-a-gentle-introduction-to-programming-using-python-january-iap-2011/cf3ecb7731ec8460ac26afe707d88b1a_MIT6_189IAP11_hw4.pdf
+file_size: 219841
 file_type: application/pdf
 learning_resource_types:
 - Assignments

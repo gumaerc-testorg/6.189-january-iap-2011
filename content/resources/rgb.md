@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource is a supporting file for color strings.
 file: /courses/6-189-a-gentle-introduction-to-programming-using-python-january-iap-2011/f9e0f0e958555e0102230693aeceaaa5_rgb.txt
+file_size: 17344
 file_type: text/plain
 learning_resource_types:
 - Assignments
