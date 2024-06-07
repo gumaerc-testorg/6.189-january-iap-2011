@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource is a supporting file for hangman.
 file: /courses/6-189-a-gentle-introduction-to-programming-using-python-january-iap-2011/6a292a251f26fc437e3995cd3843a75f_hangman_lib_demo.py
+file_size: 355
 file_type: text/python-source
 learning_resource_types:
 - Assignments
