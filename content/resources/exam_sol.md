@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource is a supporting file for exam.
 file: /courses/6-189-a-gentle-introduction-to-programming-using-python-january-iap-2011/f1a92a53241cf607bee934dd5b337115_exam_sol.py
+file_size: 5396
 file_type: text/python-source
 learning_resource_types:
 - Exams

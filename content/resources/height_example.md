@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource is a supporting file for conditionals and  loops.
 file: /courses/6-189-a-gentle-introduction-to-programming-using-python-january-iap-2011/90a696b3bbfb5d5cb030f45a17e1e72d_height_example.py
+file_size: 570
 file_type: text/python-source
 learning_resource_types:
 - Lecture Notes
