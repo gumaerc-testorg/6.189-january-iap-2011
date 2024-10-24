@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource is a supporting file for words.
-file: /courses/6-189-a-gentle-introduction-to-programming-using-python-january-iap-2011/ceced678ef8c0abd22ee3ad35d6001da_words.txt
+file: /ol-ocw-studio-app/courses/6-189-a-gentle-introduction-to-programming-using-python-january-iap-2011/ceced678ef8c0abd22ee3ad35d6001da_words.txt
 file_size: 475869
 file_type: text/plain
 learning_resource_types:
