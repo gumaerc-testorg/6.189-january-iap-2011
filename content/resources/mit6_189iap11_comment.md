@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information related to comments.
-file: /courses/6-189-a-gentle-introduction-to-programming-using-python-january-iap-2011/af08e55946e04aa06e3f697353121235_MIT6_189IAP11_comment.pdf
+file: /ol-ocw-studio-app/courses/6-189-a-gentle-introduction-to-programming-using-python-january-iap-2011/af08e55946e04aa06e3f697353121235_MIT6_189IAP11_comment.pdf
 file_size: 128977
 file_type: application/pdf
 learning_resource_types:

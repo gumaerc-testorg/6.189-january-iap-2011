@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information related to the game of hangman.
-file: /courses/6-189-a-gentle-introduction-to-programming-using-python-january-iap-2011/b2cd69c679ab80b0fa9ad1ec641964fb_MIT6_189IAP11_project1.pdf
+file: /ol-ocw-studio-app/courses/6-189-a-gentle-introduction-to-programming-using-python-january-iap-2011/b2cd69c679ab80b0fa9ad1ec641964fb_MIT6_189IAP11_project1.pdf
 file_size: 171291
 file_type: application/pdf
 learning_resource_types:
