@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource is a supporting file for tetris.
-file: /courses/6-189-a-gentle-introduction-to-programming-using-python-january-iap-2011/0dfbd16180c26babf3edcc57bf50c1f7_tetris_template.py
+file: /ol-ocw-studio-app/courses/6-189-a-gentle-introduction-to-programming-using-python-january-iap-2011/0dfbd16180c26babf3edcc57bf50c1f7_tetris_template.py
 file_size: 16425
 file_type: text/python-source
 learning_resource_types:

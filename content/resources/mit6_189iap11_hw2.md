@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information related to math module.
-file: /courses/6-189-a-gentle-introduction-to-programming-using-python-january-iap-2011/2ac37a7134412c82126537909a90469c_MIT6_189IAP11_hw2.pdf
+file: /ol-ocw-studio-app/courses/6-189-a-gentle-introduction-to-programming-using-python-january-iap-2011/2ac37a7134412c82126537909a90469c_MIT6_189IAP11_hw2.pdf
 file_size: 217320
 file_type: application/pdf
 learning_resource_types:
