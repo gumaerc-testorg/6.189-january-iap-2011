@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource is a supporting file for strings, lists, and list comprehensions.
-file: /ol-ocw-studio-app/courses/6-189-a-gentle-introduction-to-programming-using-python-january-iap-2011/f0bcfbd5d8da6d099164de289ae20510_list_examples.py
+file: /courses/6-189-a-gentle-introduction-to-programming-using-python-january-iap-2011/f0bcfbd5d8da6d099164de289ae20510_list_examples.py
 file_size: 980
 file_type: text/python-source
 learning_resource_types:

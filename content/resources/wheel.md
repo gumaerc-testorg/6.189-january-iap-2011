@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource is a supporting file for classes.
-file: /ol-ocw-studio-app/courses/6-189-a-gentle-introduction-to-programming-using-python-january-iap-2011/6665b5bc18079cbf03063b397fb63079_wheel.py
+file: /courses/6-189-a-gentle-introduction-to-programming-using-python-january-iap-2011/6665b5bc18079cbf03063b397fb63079_wheel.py
 file_size: 1668
 file_type: text/python-source
 learning_resource_types:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information related to mistakes.
-file: /ol-ocw-studio-app/courses/6-189-a-gentle-introduction-to-programming-using-python-january-iap-2011/d2cb9be926efdf0a4df78433255a876c_MIT6_189IAP11_mistakes.pdf
+file: /courses/6-189-a-gentle-introduction-to-programming-using-python-january-iap-2011/d2cb9be926efdf0a4df78433255a876c_MIT6_189IAP11_mistakes.pdf
 file_size: 119486
 file_type: application/pdf
 learning_resource_types:
