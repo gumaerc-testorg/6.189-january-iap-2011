@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information related to programming problems.
-file: /ol-ocw-studio-app/courses/6-189-a-gentle-introduction-to-programming-using-python-january-iap-2011/fb47b22609755e5d93f67355b93167dc_MIT6_189IAP11_exam.pdf
+file: /courses/6-189-a-gentle-introduction-to-programming-using-python-january-iap-2011/fb47b22609755e5d93f67355b93167dc_MIT6_189IAP11_exam.pdf
 file_size: 141577
 file_type: application/pdf
 learning_resource_types:

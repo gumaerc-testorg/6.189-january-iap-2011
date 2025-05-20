@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource is a supporting file for defining functions.
-file: /ol-ocw-studio-app/courses/6-189-a-gentle-introduction-to-programming-using-python-january-iap-2011/db3578f5e370878cf5663837fa8f5acf_functions.py
+file: /courses/6-189-a-gentle-introduction-to-programming-using-python-january-iap-2011/db3578f5e370878cf5663837fa8f5acf_functions.py
 file_size: 888
 file_type: text/python-source
 learning_resource_types:
