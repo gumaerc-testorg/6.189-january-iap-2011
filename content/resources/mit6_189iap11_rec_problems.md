@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information related to recursion exercises.
-file: /ol-ocw-studio-app/courses/6-189-a-gentle-introduction-to-programming-using-python-january-iap-2011/231bd0995d90626f2d7e2ad223fa7eea_MIT6_189IAP11_rec_problems.pdf
+file: /courses/6-189-a-gentle-introduction-to-programming-using-python-january-iap-2011/231bd0995d90626f2d7e2ad223fa7eea_MIT6_189IAP11_rec_problems.pdf
 file_size: 118041
 file_type: application/pdf
 learning_resource_types:

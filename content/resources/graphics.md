@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource is a supporting file for graphics.
-file: /ol-ocw-studio-app/courses/6-189-a-gentle-introduction-to-programming-using-python-january-iap-2011/ac08fc3c887cea057160b22094284ea5_graphics.py
+file: /courses/6-189-a-gentle-introduction-to-programming-using-python-january-iap-2011/ac08fc3c887cea057160b22094284ea5_graphics.py
 file_size: 28447
 file_type: text/python-source
 learning_resource_types:

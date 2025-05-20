@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information related to mutability.
-file: /ol-ocw-studio-app/courses/6-189-a-gentle-introduction-to-programming-using-python-january-iap-2011/c25956afd584e9f8519cee96db213255_MIT6_189IAP11_hw3_written.pdf
+file: /courses/6-189-a-gentle-introduction-to-programming-using-python-january-iap-2011/c25956afd584e9f8519cee96db213255_MIT6_189IAP11_hw3_written.pdf
 file_size: 127122
 file_type: application/pdf
 learning_resource_types:
