@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource is a supporting file for conditionals and  loops.
-file: /courses/6-189-a-gentle-introduction-to-programming-using-python-january-iap-2011/e3f6bc82d9f4b985aabb5c4f68cc7fbc_loop_examples.py
+file: /ol-ocw-studio-app/courses/6-189-a-gentle-introduction-to-programming-using-python-january-iap-2011/e3f6bc82d9f4b985aabb5c4f68cc7fbc_loop_examples.py
 file_size: 1367
 file_type: text/python-source
 learning_resource_types:
