@@ -18,39 +18,39 @@ This section includes the online textbook and a schedule of [readings by session
 Textbook
 --------
 
-Downey, Allen, Jeffrey Elkner, and Chris Meyers. _How to Think Like a Computer Scientist: Learning with Python_. Green Tea Press, 2002. ISBN: 9780971677500. ([PDF - 1.0MB](http://www.greenteapress.com/thinkpython/thinkCSpy/thinkCSpy.pdf))
+Downey, Allen, Jeffrey Elkner, and Chris Meyers. _How to Think Like a Computer Scientist: Learning with Python_. Green Tea Press, 2002. ISBN: 9780971677500. ({{% resource_link "bd08cf0f-d0d8-4a08-9541-619204b2cbf6" "PDF - 1.0MB" %}})
 
 If you have trouble accessing the textbook, or don't want to download the whole PDF, try the individual chapters:
 
-[Chapter 1: The way of the program](http://www.greenteapress.com/thinkpython/thinkCSpy/html/chap01.html)
+{{% resource_link "88d75289-863c-4c36-b730-cb3f84cedc8b" "Chapter 1: The way of the program" %}}
 
-[Chapter 2: Variables, expressions and statements](http://www.greenteapress.com/thinkpython/thinkCSpy/html/chap02.html)
+{{% resource_link "5de9b98f-068a-4001-8ea0-f088af31a1a9" "Chapter 2: Variables, expressions and statements" %}}
 
-[Chapter 3: Functions](http://www.greenteapress.com/thinkpython/thinkCSpy/html/chap03.html)
+{{% resource_link "f21c1c8d-a87c-4e8d-b799-dffca39940bb" "Chapter 3: Functions" %}}
 
-[Chapter 4: Conditionals and recursion](http://www.greenteapress.com/thinkpython/thinkCSpy/html/chap04.html)
+{{% resource_link "93b194e5-5c28-4e34-8d96-cc162e4b24cc" "Chapter 4: Conditionals and recursion" %}}
 
-[Chapter 5: Fruitful functions](http://www.greenteapress.com/thinkpython/thinkCSpy/html/chap05.html)
+{{% resource_link "5da5c952-57d5-4da3-aa22-f47c8eab21d6" "Chapter 5: Fruitful functions" %}}
 
-[Chapter 6: Iteration](http://www.greenteapress.com/thinkpython/thinkCSpy/html/chap06.html)
+{{% resource_link "0fc7820e-dfaa-443b-94da-4c02a7222bdd" "Chapter 6: Iteration" %}}
 
-[Chapter 7: Strings](http://www.greenteapress.com/thinkpython/thinkCSpy/html/chap07.html)
+{{% resource_link "b15c7dfb-2c9f-48bf-a1ba-b4f72210ce32" "Chapter 7: Strings" %}}
 
-[Chapter 8: Lists](http://www.greenteapress.com/thinkpython/thinkCSpy/html/chap08.html)
+{{% resource_link "377ba52f-624b-4d5e-b08d-e30aee5c44a6" "Chapter 8: Lists" %}}
 
-[Chapter 9: Tuples](http://www.greenteapress.com/thinkpython/thinkCSpy/html/chap09.html)
+{{% resource_link "f7d70475-8d7f-4059-b651-470262f25f12" "Chapter 9: Tuples" %}}
 
-[Chapter 10: Dictionaries](http://www.greenteapress.com/thinkpython/thinkCSpy/html/chap10.html)
+{{% resource_link "f2f5155e-9261-4ce1-918d-507f065f3ace" "Chapter 10: Dictionaries" %}}
 
-[Chapter 12: Classes and objects](http://www.greenteapress.com/thinkpython/thinkCSpy/html/chap12.html)
+{{% resource_link "09f7a1ec-3408-4d46-893b-7955734ef01f" "Chapter 12: Classes and objects" %}}
 
-[Chapter 13: Classes and functions](http://www.greenteapress.com/thinkpython/thinkCSpy/html/chap13.html)
+{{% resource_link "d009e700-cf74-4be0-9778-c6e4d473e4af" "Chapter 13: Classes and functions" %}}
 
-[Chapter 14: Classes and methods](http://www.greenteapress.com/thinkpython/thinkCSpy/html/chap14.html)
+{{% resource_link "77e25b2e-4a5a-408a-86d0-f7ee268b4115" "Chapter 14: Classes and methods" %}}
 
-[Chapter 16: Inheritance](http://www.greenteapress.com/thinkpython/thinkCSpy/html/chap16.html)
+{{% resource_link "f82e9c9a-566b-4724-be8e-a7f072b8f2cc" "Chapter 16: Inheritance" %}}
 
-[Appendix A: Debugging](http://www.greenteapress.com/thinkpython/thinkCSpy/html/app01.html) (important!)
+{{% resource_link "61826845-0f57-4f75-b2e0-6635b7127289" "Appendix A: Debugging" %}} (important!)
 
 The lectures stick with the order of the textbook for the most part, but not always.
 
@@ -116,7 +116,7 @@ Chapters 7 and 8
 
 Chapter 2 from "Lists" on, from the [6.01 course notes](/courses/6-01sc-introduction-to-electrical-engineering-and-computer-science-i-spring-2011/pages/unit-1-software-engineering/object-oriented-programming)
 
-More on list comprehensions is available [here](https://docs.python.org/2/tutorial/datastructures.html#list-comprehensions) and on [Wikipedia](http://en.wikipedia.org/wiki/List_comprehension).
+More on list comprehensions is available {{% resource_link "6a457f4c-c05e-422b-ab8a-9b86d6dd5fe8" "here" %}} and on {{% resource_link "ea1485cf-f195-4668-b080-caf8fbe29afc" "Wikipedia" %}}.
 
 
 {{< tdclose >}}
@@ -140,7 +140,7 @@ Chapters 9 and 10
 
 Chapters 12-14 (read chapter 14 well; get through at least section 14.6)
 
-This [tutorial on classes](http://docs.python.org/tutorial/classes.html) may also be helpful.
+This {{% resource_link "8f76b3fe-9162-4d48-bb9b-86a01b4d823d" "tutorial on classes" %}} may also be helpful.
 
 
 {{< tdclose >}}
@@ -160,7 +160,7 @@ Finish chapters 12-14; read chapter 16
 8
 {{< tdclose >}}
 {{< tdopen >}}
-[Wikipedia: Conway's Game of Life](http://en.wikipedia.org/wiki/Conway%27s_Game_of_Life) (Project 2)
+{{% resource_link "74ce3733-bc07-47b1-ae85-9d3b5dcd1d47" "Wikipedia: Conway's Game of Life" %}} (Project 2)
 {{< tdclose >}}
 
 {{< trclose >}}

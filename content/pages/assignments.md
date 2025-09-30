@@ -13,7 +13,7 @@ video_metadata:
   youtube_id: null
 ---
 
-If you are working on your own machine, you will probably need to install Python. We will be using the standard Python software, [available here](http://www.python.org/download/releases/2.6.6/). You should download and install version 2.6.x, **not** 2.7.x or 3.x. All MIT Course 6 classes currently use a version of Python 2.6.
+If you are working on your own machine, you will probably need to install Python. We will be using the standard Python software, {{% resource_link "f9959840-514a-43c1-a070-484dd5b0a547" "available here" %}}. You should download and install version 2.6.x, **not** 2.7.x or 3.x. All MIT Course 6 classes currently use a version of Python 2.6.
 
 {{< tableopen >}}
 {{< theadopen >}}
